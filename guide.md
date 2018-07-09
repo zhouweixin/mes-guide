@@ -19,11 +19,11 @@
 
 **1) 新增**
 
-![](images/info_01.png)
+![](images/5基础信息/01.png)
 
 **2) 编辑**
 
-![](images/info_02.png)
+![](images/5基础信息/02.png)
 
 
 ## 6 在线监视
