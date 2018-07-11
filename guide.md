@@ -12,11 +12,11 @@
 
 - 24小时
 
-![image](images/2在线监视/能耗监视/1.png)
+  ![image](images/2在线监视/能耗监视/1.png)
 
 - 分时对比
 
-![image](images/2在线监视/能耗监视/2.png)
+  ![image](images/2在线监视/能耗监视/2.png)
 
 ## 3、第三方
 
