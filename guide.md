@@ -12,41 +12,41 @@
 
 - 24小时
 
-  ![image](images/2在线监视/能耗监视/1.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/2在线监视/能耗监视/1.png)
 
 - 分时对比
 
-  ![image](images/2在线监视/能耗监视/2.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/2在线监视/能耗监视/2.png)
 
 ## 3、第三方
 
 **1)供应商管理--供货管理--新增**
 
-![](images/3第三方/f301.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/3第三方/f301.png)
 
 **2)供应商管理--供货管理--编辑**
 
-![](images/3第三方/f302.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/3第三方/f302.png)
 
 **3)供应商管理--供货管理--删除**
 
-![](images/3第三方/f303.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/3第三方/f303.png)
 
 **4)供应商管理--公司管理--编辑**
 
-![](images/3第三方/f304.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/3第三方/f304.png)
 
 **5)客户管理--检测报告--搜索**
 
-![](images/3第三方/f306.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/3第三方/f306.png)
 
 **6)客户管理--公司管理--编辑**
 
-![](images/3第三方/f307.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/3第三方/f307.png)
 
 **7)客户管理--人员管理--编辑**
 
-![](images/3第三方/f308.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/3第三方/f308.png)
 
 ## 4、设备管理
 
@@ -56,19 +56,19 @@
 
 **1) 新增**
 
-![](images/4设备管理/eqip_01.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/4设备管理/eqip_01.png)
 
 **2) 编辑**
 
-![](images/4设备管理/eqip_05.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/4设备管理/eqip_05.png)
 
 **3) 批量删除**
 
-![](images/4设备管理/eqip_03.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/4设备管理/eqip_03.png)
 
 **4) 删除**
 
-![](images/4设备管理/eqip_06.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/4设备管理/eqip_06.png)
 
 **5) 刷新**
 
@@ -76,21 +76,21 @@
 
 **6) 搜索**
 
-![](images/4设备管理/eqip_07.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/4设备管理/eqip_07.png)
 
 #### 4.1.2 指导书
 
 **1) 新增**
 
-![](images/4设备管理/guide_01.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/4设备管理/guide_01.png)
 
 **2) 详情**
 
-![](images/4设备管理/guide_02.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/4设备管理/guide_02.png)
 
 **3) 编辑**
 
-![](images/4设备管理/guide_03.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/4设备管理/guide_03.png)
 
 **4) 批量删除**
 
@@ -114,15 +114,15 @@
 
 **1) 根据工单状态搜索**
 
-![](images/4设备管理/repair_01.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/4设备管理/repair_01.png)
 
 **2) 根据报修日期搜索**
 
-![](images/4设备管理/repair_02.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/4设备管理/repair_02.png)
 
 **3) 根据设备名称搜索**
 
-![](images/4设备管理/repair_03.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/4设备管理/repair_03.png)
 
 **4) 刷新**
 
@@ -140,39 +140,39 @@
 
 - 新增
 
-  ![image](images/5基础信息/01.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/01.png)
 
 - 编辑
 
-  ![image](images/5基础信息/02.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/02.png)
 
 #### 5.1.1 设备信息
 
 **1) 新增**
 
-![](images/5基础信息/info_01.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/info_01.png)
 
 **2) 编辑**
 
-![](images/5基础信息/info_02.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/info_02.png)
 
 **3) 删除**
 
 **删除方式一**
 
-![](images/5基础信息/info_04.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/info_04.png)
 
 **删除方式二**
 
-![](images/5基础信息/info_05.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/info_05.png)
 
 **4) 搜索**
 
-![](images/5基础信息/info_06.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/info_06.png)
 
 **5) 刷新**
 
-![](images/5基础信息/info_07.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/info_07.png)
 
 #### 5.1.2 公司信息
 
@@ -260,15 +260,15 @@
 
 **1) 菜单条目上移**
 
-![](images/5基础信息/menu_01.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/menu_01.png)
 
-![](images/5基础信息/menu_02.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/menu_02.png)
 
 **2) 菜单条目下移**
 
-![](images/5基础信息/menu_01.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/menu_01.png)
 
-![](images/5基础信息/menu_03.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/menu_03.png)
 
 **3) 编辑**
 
@@ -280,7 +280,7 @@
 
 **5) 添加菜单**
 
-![](images/5基础信息/menu_05.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/5基础信息/menu_05.png)
 
 ### 5.4 流程管理
 
@@ -298,19 +298,19 @@
 
 **1) 新增**
 
-![](images/6权限管理/role_01.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/role_01.png)
 
 **2) 批量删除**
 
-![](images/6权限管理/role_02.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/role_02.png)
 
 **3) 编辑角色**
 
-![](images/6权限管理/role_03.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/role_03.png)
 
 **4) 编辑权限**
 
-![](images/6权限管理/role_04.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/role_04.png)
 
 **5) 刷新**
 
@@ -328,35 +328,35 @@
 
 **1) 新增**
 
-![](images/6权限管理/user_01.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/user_01.png)
 
 **2) 批量删除**
 
-![](images/6权限管理/user_02.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/user_02.png)
 
 **3) 重置密码**
 
-![](images/6权限管理/user_03.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/user_03.png)
 
 **4) 修改初始密码**
 
-![](images/6权限管理/user_04.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/user_04.png)
 
 **5) 设置部门**
 
-![](images/6权限管理/user_05.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/user_05.png)
 
 **6) 设置角色**
 
-![](images/6权限管理/user_06.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/user_06.png)
 
 **7) 设置IC卡**
 
-![](images/6权限管理/user_07.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/user_07.png)
 
 **8) 编辑**
 
-![](images/6权限管理/user_08.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/user_08.png)
 
 **9) 刷新**
 
@@ -374,11 +374,11 @@
 
 **1) 新增**
 
-![](images/6权限管理/customer_01.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/customer_01.png)
 
 **2) 编辑**
 
-![](images/6权限管理/customer_02.png)
+![](https://gitee.com/zscdumin/mes-guide/raw/master/images/6权限管理/customer_02.png)
 
 **3) 批量删除**
 
@@ -412,15 +412,15 @@
 
 - 选择文件 > 选择类型 > 打开 > 导入数据
 
-  ![image](images/7品质管理/01.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/01.png)
 
-  ![image](images/7品质管理/02.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/02.png)
 
 ### 7.2 化验审核
 
 #### 7.2.1 产品审核
 
-  ![image](images/7品质管理/04.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/04.png)
 
 #### 7.2.2 原料审核
 
@@ -434,7 +434,7 @@
 
 #### 7.3.1 产品发布
 
-  ![image](images/7品质管理/05.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/05.png)
 
 #### 7.3.2 原料发布
 
@@ -442,7 +442,7 @@
 
 #### 7.3.3 制程发布
 
-  ![image](images/7品质管理/07.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/07.png)
 
 ## 8、仓库管理
 
@@ -450,7 +450,7 @@
 
 #### 8.1.1 原料入库
 
-![image](images/7品质管理/08.png)
+![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/08.png)
 
 #### 8.1.2 产品入库
 
@@ -462,9 +462,9 @@
 
 - 正常申请
 
-  ![image](images/7品质管理/10.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/10.png)
 
-  ![image](images/7品质管理/11.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/11.png)
 
 - 紧急申请
 
@@ -476,7 +476,7 @@
 
 - 详情
 
-  ![image](images/7品质管理/14.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/14.png)
 
 - 编辑
 
@@ -484,27 +484,27 @@
 
 #### 8.2.2 原料出库
 
-![image](images/7品质管理/20.png)
+![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/20.png)
 
 #### 8.2.3 产品出库
 
-![image](images/7品质管理/18.png)
+![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/18.png)
 
-![image](images/7品质管理/19.png)
+![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/19.png)
 
 ### 8.3 盘库管理
 
 #### 8.3.1 盘库管理
 
-![image](images/7品质管理/21.png)
+![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/21.png)
 
-![image](images/7品质管理/22.png)
+![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/22.png)
 
 #### 8.3.2 盘库审核
 
-![image](images/7品质管理/24.png)
+![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/24.png)
 
-![image](images/7品质管理/25.png)
+![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/7品质管理/25.png)
 
 ## 9、生产管理
 
@@ -512,10 +512,10 @@
 
 - 工艺单管理
 
-  ![image](images/9生产管理/工艺管理/1.png)
-  ![image](images/9生产管理/工艺管理/2.png)
-  ![image](images/9生产管理/工艺管理/3.png)
-  ![image](images/9生产管理/工艺管理/4.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/工艺管理/1.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/工艺管理/2.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/工艺管理/3.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/工艺管理/4.png)
 
 - 其他小模块同上（不再详述）
 
@@ -523,9 +523,9 @@
 
 - 核秤
 
-  ![image](images/9生产管理/质控管理/6.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/质控管理/6.png)
 
-  ![image](images/9生产管理/质控管理/7.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/质控管理/7.png)
 
 - 其他模块同上（不再赘述）
 
@@ -537,12 +537,12 @@
 
 - 副产品检测
 
-  ![image](images/9生产管理/副产品统计/10.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/副产品统计/10.png)
 
-  ![image](images/9生产管理/副产品统计/11.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/副产品统计/11.png)
 
 ### 9.5 岗位日志
 
 - 查询岗位交接班
 
-  ![image](images/9生产管理/岗位日志/14.png)
+  ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/岗位日志/14.png)
