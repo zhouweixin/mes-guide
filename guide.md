@@ -1,7 +1,5 @@
 # MES 系统使用说明书
 
----
-
 ## 1、人员定位
 
 ### 1.1 实时监控
@@ -10,11 +8,15 @@
 
 ### 2.1 能耗监视
 
-- 24小时
+- **24小时**
+     - ***点击24小时，你将看到如图所示界面。***
+     - ***点击下拉菜单可进行设备切换。***
 
   ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/2在线监视/能耗监视/1.png)
 
-- 分时对比
+- **分时对比**
+     - ***点击分时对比，你将看到如图所示界面。***
+     - ***点击下拉菜单可进行设备切换，然后设置时间段(0-24之间的整数)、设置时间段1和时间段2，最后点击查询即可看到能耗曲线图。***
 
   ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/2在线监视/能耗监视/2.png)
 
@@ -510,32 +512,39 @@
 
 ### 9.1 工艺管理
 
-- 工艺单管理
-
+- **工艺单管理**
+    - ***点击新增，将会弹出添加数据的窗口，进行数据填写后点击提交即可。***
+    - ***选择某条数据，点击删除按钮即可删除该条数据（也可在某条数据的后面点击删除按钮进行删除）；若全选以后再点删除按钮，则会删除所有数据。***
+    - ***输入批号，点击搜索按钮即可进行数据查询。***
+    - ***点击某条数据可查看其详情和编辑数据。***
   ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/工艺管理/1.png)
   ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/工艺管理/2.png)
   ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/工艺管理/3.png)
   ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/工艺管理/4.png)
 
-- 其他小模块同上（不再详述）
+- **其他小模块同上（不再详述）**
 
 ### 9.2 质控记录
 
-- 核秤
+- **核秤**
 
   ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/质控管理/6.png)
 
   ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/质控管理/7.png)
 
-- 其他模块同上（不再赘述）
+- **其他模块同上（不再赘述）**
 
 ### 9.3 批号追溯
 
-- 同上
+- **同上**
 
 ### 9.4 副产品统计
 
-- 副产品检测
+- **副产品检测**
+ 
+    - ***选择产品类型、年份、月份后进行搜索***
+    - ***点击曲线显示将会看到第二幅图中的曲线***
+    - ***点击表格显示将会看到第一幅图中的表格***
 
   ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/副产品统计/10.png)
 
@@ -543,6 +552,8 @@
 
 ### 9.5 岗位日志
 
-- 查询岗位交接班
-
+- **查询岗位交接班**
+    - ***输入岗位和交接日期进行查询即可***
+    - ***点击刷新按钮进行刷新***
+    - ***点击上一页、下一页进行数据切换***
   ![image](https://gitee.com/zscdumin/mes-guide/raw/master/images/9生产管理/岗位日志/14.png)
